@@ -1,1 +1,17 @@
-# Text_Analysis
+# Sentilysis
+
+A Sentimental Analysis web-app to analyse and give various analytics scores. The list of the scores are fiven below.
+
+- POSITIVE SCORE
+- NEGATIVE SCORE
+- POLARITY SCORE
+- SUBJECTIVITY SCORE
+- AVG SENTENCE LENGTH
+- PERCENTAGE OF COMPLEX WORDS
+- FOG INDEX
+- AVG NUMBER OF WORDS PER SENTENCE
+- COMPLEX WORD COUNT
+- WORD COUNT
+- SYLLABLE PER WORD
+- PERSONAL PRONOUNS
+- AVG WORD LENGTH
